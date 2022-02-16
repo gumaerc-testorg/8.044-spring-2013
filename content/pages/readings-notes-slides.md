@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings, Notes & Slides
 uid: 27c05753-682f-a97b-66a1-d9d0d2d92d89
 ---

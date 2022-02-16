@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This file contains information regarding final exam. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-044-statistical-physics-i-spring-2013/27d79144664793039a264b1564296b8f_MIT8_044S13_Final.pdf
+file: /media/courses/8-044-statistical-physics-i-spring-2013/27d79144664793039a264b1564296b8f_MIT8_044S13_Final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 8.044s13 Final Exam
 uid: 27d79144-6647-9303-9a26-4b1564296b8f
