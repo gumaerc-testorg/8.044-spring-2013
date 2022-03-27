@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
+parent_uid: 27c05753-682f-a97b-66a1-d9d0d2d92d89
 resourcetype: Document
 title: 8.044s13 Excited State Helium, He
 uid: 66242f5e-3a5a-f9fe-ed39-2b74eb43fe19

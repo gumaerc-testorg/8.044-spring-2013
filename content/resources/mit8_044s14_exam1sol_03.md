@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f21e39bd-ca8b-7aca-233d-05f7e986f52c
 resourcetype: Document
 title: '8.044s13 Exam1Sol '
 uid: aeaae0a7-acd5-e287-d9cf-9e3e37f76125

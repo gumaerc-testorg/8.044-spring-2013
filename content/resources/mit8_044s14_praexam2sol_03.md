@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f21e39bd-ca8b-7aca-233d-05f7e986f52c
 resourcetype: Document
 title: 8.044s13 PracExam2Sol
 uid: 7939aa6c-8808-7be5-8b8c-eaaec5c69615

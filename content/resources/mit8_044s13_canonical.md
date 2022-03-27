@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
+parent_uid: 27c05753-682f-a97b-66a1-d9d0d2d92d89
 resourcetype: Document
 title: 8.044s13 Notes on the Canonical Ensemble
 uid: 7fa3fb42-37d0-d00d-5603-ae4ea8f02236

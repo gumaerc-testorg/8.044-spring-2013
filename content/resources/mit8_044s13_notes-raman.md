@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
+parent_uid: 27c05753-682f-a97b-66a1-d9d0d2d92d89
 resourcetype: Document
 title: 8.044s13 Indistinguishable Particle Effects in Rotational Raman Scattering
 uid: 1bdea39c-aa1a-e504-977b-259bc90de660

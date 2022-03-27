@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
+parent_uid: 27c05753-682f-a97b-66a1-d9d0d2d92d89
 resourcetype: Document
 title: 8.044s13 Notes on the Microcanonical Ensemble
 uid: 328b69f8-45f5-40b1-37c5-fbde68203697

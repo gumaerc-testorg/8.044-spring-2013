@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
+parent_uid: 27c05753-682f-a97b-66a1-d9d0d2d92d89
 resourcetype: Document
 title: 8.044s13 Two Random Variables
 uid: 238adf58-0b2c-da8b-6518-f0405d5b0cc4
