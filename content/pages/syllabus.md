@@ -1,89 +1,44 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, readings, homework, exams, grading, and recommended
+  textbooks.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 98b4d02a-ad37-adcb-c86e-d86183dbb82f
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
 Recitations: 2 sessions / week, 1 hour / session
 
-Prerequisites
--------------
+## Prerequisites
 
-_Physics III: Vibrations and Waves (8.03)_, [_Differential Equations (18.03)_](/courses/18-03sc-differential-equations-fall-2011). Concurrent Enrollment in [_Quantum Physics I (8.04)_](/courses/8-04-quantum-physics-i-spring-2013) is recommended.
+[_8.03 Physics III: Vibrations and Waves_](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016), [_18.03 Differential Equations_](/courses/18-03sc-differential-equations-fall-2011) . Concurrent Enrollment in [_8.04_ Quantum Physics I](/courses/8-04-quantum-physics-i-spring-2016) is recommended.
 
-Description
------------
+## Description
 
 This course offers an introduction to probability, statistical mechanics, and thermodynamics. Specific topics in probability include random variables, joint and conditional probability densities, and functions of a random variable. Concepts in statistical mechanics include macroscopic variables and thermodynamic equilibrium, fundamental assumptions of statistical mechanics, and microcanonical and canonical ensembles. Also covered are the first, second, and third laws of thermodynamics. Numerous examples illustrating a wide variety of physical phenomena such as magnetism, polyatomic gases, thermal radiation, electrons in solids, and noise in electronic devices are discussed.
 
-Textbooks, Readings, and Slides
--------------------------------
+## Textbooks, Readings, and Slides
 
-There is no required textbook. Instead, there are recommended readings, notes selected topics, and slides. See below for a discussion of [recommended textbooks]({{< baseurl >}}/pages/syllabus#recommended_textbooks) that you may wish to consult.
+There is no required textbook. Instead, there are recommended readings, notes selected topics, and slides. See below for a discussion of {{% resource_link 98b4d02a-ad37-adcb-c86e-d86183dbb82f "recommended textbooks" "#recommended_textbooks" %}} that you may wish to consult.
 
-Homework
---------
+## Homework
 
-Problem sets are due as indicated on the [calendar]({{< baseurl >}}/pages/calendar). The homework contributes 20% toward the final grade. One of the 11 problem set grades, the lowest, will be dropped at the end of the term.
+Problem sets are due as indicated on the {{% resource_link cc52af27-5610-303b-f4a9-d423cebfb12a "calendar" %}}. The homework contributes 20% toward the final grade. One of the 11 problem set grades, the lowest, will be dropped at the end of the term.
 
-Exams
------
+## Exams
 
 There will be two exams during the term given during the lecture times. Each contributes 20% toward the final grade. There will be a three hour final exam during the spring exam period. It will constitute 40% of the grade.
 
-Grading
--------
+## Grading
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
-ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
-PERCENTAGES
-{{< thclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}ACTIVITIES{{< thclose >}}{{< thopen >}}PERCENTAGES{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}Homework{{< tdclose >}}{{< tdopen >}}20{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}Midterms @ 20% each{{< tdclose >}}{{< tdopen >}}40{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}Final exam{{< tdclose >}}{{< tdopen >}}40{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Homework
-{{< tdclose >}}
-{{< tdopen >}}
-20
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Midterms @ 20% each
-{{< tdclose >}}
-{{< tdopen >}}
-40
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Final exam
-{{< tdclose >}}
-{{< tdopen >}}
-40
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-{{< anchor "recommended_textbooks" >}}{{< /anchor >}}Recommended Textbooks
---------------------------------------------------------------------------
+## {{< anchor "recommended_textbooks" >}}{{< /anchor >}}Recommended Textbooks
 
 There is no shortage of textbooks on statistical mechanics and thermodynamics aimed primarily at physicists. I have about 4 feet of them on the bookshelf above my desk. This is not because the subject has been evolving. With the exception of the realization of physical systems that are very close to non-interacting Bose gasses and exhibit Bose-Einstein condensation, the topics covered have remained essentially the same for the past 60 years. Rather, few people are completely satisfied by the way the material is presented and enterprising physicists will want to have a go at it themselves.
 
