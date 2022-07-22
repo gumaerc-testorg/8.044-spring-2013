@@ -5,6 +5,7 @@ file: /courses/8-044-statistical-physics-i-spring-2013/7a736b0d93fde285ef541c176
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8.044s13 Interstitial Atoms
 uid: 7a736b0d-93fd-e285-ef54-1c17661498ac
 ---
 This file contains information regarding interstitial atoms.
-

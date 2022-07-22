@@ -5,6 +5,7 @@ file: /courses/8-044-statistical-physics-i-spring-2013/ac7b7480382be090e3a76ed06
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8.044s13 PracExam4
 uid: ac7b7480-382b-e090-e3a7-6ed0687783d2
 ---
 This file contains information regarding practice exam 4.
-

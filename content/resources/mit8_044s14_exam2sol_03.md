@@ -5,6 +5,7 @@ file: /courses/8-044-statistical-physics-i-spring-2013/9f0a8bff60ce1c5e8c67a7c79
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8.044s13 Exam2Sol
 uid: 9f0a8bff-60ce-1c5e-8c67-a7c797c73e34
 ---
 This file contains information regarding exam 2 solution.
-

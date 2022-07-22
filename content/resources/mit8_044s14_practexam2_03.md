@@ -5,6 +5,7 @@ file: /courses/8-044-statistical-physics-i-spring-2013/211a07193ed249926eec9119e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

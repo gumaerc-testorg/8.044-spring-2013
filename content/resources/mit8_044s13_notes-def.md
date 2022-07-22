@@ -5,6 +5,7 @@ file: /courses/8-044-statistical-physics-i-spring-2013/89308d5289b1c515392685be6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8.044s13 Notes on Thermodynamic Systems
 uid: 89308d52-89b1-c515-3926-85be677fa330
 ---
 This file contains information regarding notes on thermodynamic systems.
-

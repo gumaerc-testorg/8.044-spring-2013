@@ -6,6 +6,7 @@ file: /courses/8-044-statistical-physics-i-spring-2013/6a9cad96004b4d19eedb1ac9f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '8.044s13 Maxwell Relations: A Wealth of Partial Derivatives'
 uid: 6a9cad96-004b-4d19-eedb-1ac9f7942e3b
 ---
 This resource contains information regarding maxwell relations: a wealth of partial derivatives.
-

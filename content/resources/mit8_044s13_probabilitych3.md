@@ -6,6 +6,7 @@ file: /courses/8-044-statistical-physics-i-spring-2013/3e6af22f98fd34fb7db08dc9a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: 8.044s13 Functions of a Random Variable
 uid: 3e6af22f-98fd-34fb-7db0-8dc9a21f1a62
 ---
 This file contains information regarding functions of a random variable.
-
-

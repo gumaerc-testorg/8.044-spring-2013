@@ -6,6 +6,7 @@ file: /courses/8-044-statistical-physics-i-spring-2013/1bdea39caa1ae504977b259bc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings, Notes & Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 8.044s13 Indistinguishable Particle Effects in Rotational Raman Scatterin
 uid: 1bdea39c-aa1a-e504-977b-259bc90de660
 ---
 This file contains information regarding indistinguishable particle effects in rotational raman scattering.
-
