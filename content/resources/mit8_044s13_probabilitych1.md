@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding one random variable.
 file: /courses/8-044-statistical-physics-i-spring-2013/d6bf12c5c5dd0d9ea3c0e4543875c611_MIT8_044S13_ProbabilityCh1.pdf
+file_size: 188319
 file_type: application/pdf
 learning_resource_types:
 - Readings
