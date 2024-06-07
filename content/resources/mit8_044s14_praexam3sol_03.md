@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding practice exam 3 solution.
 file: /courses/8-044-statistical-physics-i-spring-2013/9473a783d00194ca007eb22fbdb64b50_MIT8_044S14_praexam3sol_03.pdf
+file_size: 82129
 file_type: application/pdf
 learning_resource_types:
 - Exams

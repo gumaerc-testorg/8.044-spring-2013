@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-044-statistical-physics-i-spring-2013/211a07193ed249926eec9119eccfdf6f_MIT8_044S14_practexam2_03.pdf
+file_size: 121338
 file_type: application/pdf
 learning_resource_types:
 - Exams

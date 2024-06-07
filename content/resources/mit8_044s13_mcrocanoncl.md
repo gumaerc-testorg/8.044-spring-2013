@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding notes on the microcanonical
   ensemble.
 file: /courses/8-044-statistical-physics-i-spring-2013/328b69f845f540b137c5fbde68203697_MIT8_044S13_mcrocanoncl.pdf
+file_size: 222136
 file_type: application/pdf
 learning_resource_types:
 - Readings
