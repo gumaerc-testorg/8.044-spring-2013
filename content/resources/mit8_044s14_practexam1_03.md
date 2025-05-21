@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding practice exam 1.
-file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/6a9cbb825b069732d2fecae5fda0f66a_MIT8_044S14_practexam1_03.pdf
+file: /courses/8-044-statistical-physics-i-spring-2013/6a9cbb825b069732d2fecae5fda0f66a_MIT8_044S14_practexam1_03.pdf
 file_size: 91055
 file_type: application/pdf
 learning_resource_types:

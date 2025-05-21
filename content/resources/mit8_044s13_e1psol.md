@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding practice exam 1 solution.
-file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/7571269aba4c1a067d5509b97b36bb96_MIT8_044S13_E1Psol.pdf
+file: /courses/8-044-statistical-physics-i-spring-2013/7571269aba4c1a067d5509b97b36bb96_MIT8_044S13_E1Psol.pdf
 file_size: 97023
 file_type: application/pdf
 learning_resource_types:
