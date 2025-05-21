@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding interstitial atoms.
-file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/7a736b0d93fde285ef541c17661498ac_MIT8_044S13_notes.inters.pdf
+file: /courses/8-044-statistical-physics-i-spring-2013/7a736b0d93fde285ef541c17661498ac_MIT8_044S13_notes.inters.pdf
 file_size: 79112
 file_type: application/pdf
 learning_resource_types:

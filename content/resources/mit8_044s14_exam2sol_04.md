@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding exam 2 solution.
-file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/f41c1efcefb1b0eb666c6ad8caa3c2cf_MIT8_044S14_exam2sol_04.pdf
+file: /courses/8-044-statistical-physics-i-spring-2013/f41c1efcefb1b0eb666c6ad8caa3c2cf_MIT8_044S14_exam2sol_04.pdf
 file_size: 114980
 file_type: application/pdf
 learning_resource_types:

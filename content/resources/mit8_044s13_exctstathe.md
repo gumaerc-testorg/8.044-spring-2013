@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding excited state helium.
-file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/66242f5e3a5af9feed392b74eb43fe19_MIT8_044S13_ExctStatHe.pdf
+file: /courses/8-044-statistical-physics-i-spring-2013/66242f5e3a5af9feed392b74eb43fe19_MIT8_044S13_ExctStatHe.pdf
 file_size: 157062
 file_type: application/pdf
 learning_resource_types:
