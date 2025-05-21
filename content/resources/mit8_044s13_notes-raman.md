@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding indistinguishable particle effects
   in rotational raman scattering.
-file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/1bdea39caa1ae504977b259bc90de660_MIT8_044S13_notes.Raman.pdf
+file: /courses/8-044-statistical-physics-i-spring-2013/1bdea39caa1ae504977b259bc90de660_MIT8_044S13_notes.Raman.pdf
 file_size: 124765
 file_type: application/pdf
 learning_resource_types:
