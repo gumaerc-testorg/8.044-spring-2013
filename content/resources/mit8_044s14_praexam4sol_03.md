@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding practice exam 4 solution.
-file: /courses/8-044-statistical-physics-i-spring-2013/78fcd390c417b66177e0592e12471308_MIT8_044S14_praexam4sol_03.pdf
+file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/78fcd390c417b66177e0592e12471308_MIT8_044S14_praexam4sol_03.pdf
 file_size: 103707
 file_type: application/pdf
 learning_resource_types:
