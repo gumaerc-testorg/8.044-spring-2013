@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding two random variables.
-file: /courses/8-044-statistical-physics-i-spring-2013/238adf580b2cda8b6518f0405d5b0cc4_MIT8_044S13_ProbabilityCh2.pdf
+file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/238adf580b2cda8b6518f0405d5b0cc4_MIT8_044S13_ProbabilityCh2.pdf
 file_size: 705818
 file_type: application/pdf
 learning_resource_types:
