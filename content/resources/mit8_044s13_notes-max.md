@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding maxwell relations: a wealth
   of partial derivatives.'
-file: /courses/8-044-statistical-physics-i-spring-2013/6a9cad96004b4d19eedb1ac9f7942e3b_MIT8_044S13_notes.Max.pdf
+file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/6a9cad96004b4d19eedb1ac9f7942e3b_MIT8_044S13_notes.Max.pdf
 file_size: 92052
 file_type: application/pdf
 learning_resource_types:

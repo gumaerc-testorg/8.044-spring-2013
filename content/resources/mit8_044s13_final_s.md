@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final exam solution.
-file: /courses/8-044-statistical-physics-i-spring-2013/d9da0766a6673b6b8f3419394aa39a92_MIT8_044S13_Final_s.pdf
+file: /ol-ocw-studio-app/courses/8-044-statistical-physics-i-spring-2013/d9da0766a6673b6b8f3419394aa39a92_MIT8_044S13_Final_s.pdf
 file_size: 178769
 file_type: application/pdf
 learning_resource_types:
