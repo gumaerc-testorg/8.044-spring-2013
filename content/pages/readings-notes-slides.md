@@ -248,7 +248,7 @@ No Readings
 
 \[B&B\] Section 20.2: Obtaining the Functions of State, and Section 21.6: Heat Capacity of a Diatomic Gas
 
-Strickler, S. J. "[Electronic Partition Function Paradox](http://dx.doi.org/10.1021/ed043p364)." _Journal of Chemical Education_ 43, no. 7 (1996): 364.
+Strickler, S. J. "{{% resource_link "2d5e19c3-f962-45a0-8bab-681a1e5d7c2c" "Electronic Partition Function Paradox" %}}." _Journal of Chemical Education_ 43, no. 7 (1996): 364.
 
 
 {{< tdclose >}}
