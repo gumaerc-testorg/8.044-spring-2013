@@ -50,7 +50,7 @@ Huang, Kerson. _Statistical Mechanics_. Wiley, 1987. ISBN: 9780471815181.
 
 A graduate text formerly used in MIT subjects. Although some of the material {mainly in the latter half of the book {is above the level of 8.044, the clear and concise explanations of thermodynamics and the three statistical ensembles are hard to beat. The presentation of the material in 8.044 follows this approach quite closely. Note that a subsequent text by Huang, Kerson. _Introduction to Statistical Physics_. CRC Press, 2001. ISBN: 9780748409419 is not as useful for our purposes.
 
-Kardar, Mehran. _Statistical Physics of Particles_. Cambridge University Press, 2007. ISBN: 9780521873420. \[Preview with [Google Books](http://books.google.com/books?id=1WlFhiz5UjwC&pg=PAfrontcover)\]
+Kardar, Mehran. _Statistical Physics of Particles_. Cambridge University Press, 2007. ISBN: 9780521873420. \[Preview with {{% resource_link "a20b8c21-b5c9-435f-8304-94dafb6d72aa" "Google Books" %}}\]
 
 Mehran has given the graduate version of statistical physics at MIT for a number of years and this is the text that has evolved from it. The course, and the textbook, are exemplary. This is more advanced than the Huang text (students are better prepared now than they were then) so it is not as useful for us. None the less, some of the sections on the development of theory are worth reading.
 
